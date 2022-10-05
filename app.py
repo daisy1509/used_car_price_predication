@@ -14,9 +14,7 @@ from multiprocessing.sharedctypes import Value
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
-from PIL import Image
-from datetime import datetime, date
+from datetime import date
 import os
 from joblib import dump, load
 import math
