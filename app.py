@@ -8,7 +8,7 @@ Changes to the first version:
 1. put all the widgets to the sidebar
 2. add the time period option in the user id based recommendation
 """
-pip install catboost
+!pip install catboost
 
 # imports
 from email.policy import default
